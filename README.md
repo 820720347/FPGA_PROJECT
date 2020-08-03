@@ -28,8 +28,8 @@
      ` 放bitstream文件 ` 
 * digital_recognition  
      ` 数字识别工程 ` 
-* Sourcecode
+* Sourcecode  
      ` verilog源文件 ` 
-* images
+* images  
      ` FPGA模块框架 ` 
     
