@@ -26,10 +26,10 @@
 ## 仓库目录介绍
 * ExecutableFiles  
      ` 放bitstream文件 ` 
-* digital_recognition  
+* Digital_recognition  
      ` 数字识别工程 ` 
 * Sourcecode  
      ` verilog源文件 ` 
-* images  
+* Images  
      ` FPGA模块框架 ` 
     
